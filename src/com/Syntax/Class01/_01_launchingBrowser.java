@@ -3,7 +3,7 @@ package com.Syntax.Class01;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 
-public class class01 {
+public class _01_launchingBrowser {
     public static void main(String[] args) {
         //Set the path to the driver to link it with our class
         System.setProperty("webdriver.chrome.driver","Drivers/chromedriver.exe");

@@ -1,0 +1,68 @@
+// Open a new tab
+
+driver.findElement(By.cssSelector("body")).sendKeys(Keys.CONTROL + "t");
+컨트롤 T 로 탭을 열 수 있어, 다음과 같이 사용할 수 있다.
+or
+
+String selectLinkOpeninNewTab = Keys.chord(Keys.CONTROL,"t");
+driver.findElement(By.linkText("urlLink")).sendKeys(selectLinkOpeninNewTab);
+
+or
+
+How to open a new tab using Selenium WebDriver with Java for Chrome:
+
+ChromeOptions options = new ChromeOptions();
+options.addArguments("--disable-extensions");
+driver = new ChromeDriver(options);
+driver.manage().window().maximize();
+driver.navigate().to("https://google.com");
+Robot robot = new Robot();
+robot.keyPress(KeyEvent.VK_CONTROL);
+robot.keyPress(KeyEvent.VK_T);
+robot.keyRelease(KeyEvent.VK_CONTROL);
+robot.keyRelease(KeyEvent.VK_T);
+The above code will disable first extensions and using the robot class, a new tab will open.
+
+
+-----------------------------------------------------
+
+반대로 탭을 키 이벤트로 닫을 수도 있다.
+
+Actions action = new Actions(driver);
+
+// Close the newly opened tab
+
+action.keyDown(Keys.CONTROL).sendKeys("w").perform();
+
+컨트롤 W 는 현재 포커스의 브라우저를 닫는 단축키
+
+--------------------------------------------------------
+해당 링크를 새 탭에서
+String selectLinkOpeninNewTab = Keys.chord(Keys.CONTROL,Keys.RETURN);       /Not working
+driver.findElement(By.linkText("urlLink")).sendKeys(selectLinkOpeninNewTab);        /Not working
+driver.findElement(By.linkText("https://www.google.com/")).sendKeys(Keys.chord(Keys.CONTROL,Keys.RETURN));  /Not working
+
+or
+
+If you want to open a blank page in the tab, you could
+driver.ExecuteScript("window.open('about:blank','_blank');");
+
+
+---------------------------------------------------------
+
+// Switch back to original
+
+action.keyDown(Keys.CONTROL).sendKeys("1").perform();
+
+컨프롤 숫자는 해당 번호의 순서 탭으로 이동하는 단축키이다.
+
+---------------------------------------------------------
+
+또한 탭이 많을 경우 제어가 힘들수도 있는데, 원래 탭으로 돌아갈 수 도 있다.
+
+// I had to grab the original handle
+String originalHandle = driver.getWindowHandle();
+
+// And switch back to the original handle. I am not sure why, but
+// it just did not work without this, like it has lost the focus
+driver.switchTo().window(originalHandle);

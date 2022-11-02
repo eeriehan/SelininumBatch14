@@ -1,0 +1,40 @@
+Seleninum Class 02
+
+All web application are developed using Html.
+
+HTML===>
+
+tags:
+
+<html>
+    <body>
+        <button> hello </button>
+    </body>
+</html>
+
+
+-----------------anchor tag------------------
+<a> --> anchor tag
+usually the links are placed in this tag, if there is a text in the <a> tag then you can
+use linktext locator
+
+---------NOSUCH element exception-------------------
+occurs when the driver is unable to find the element on the page
+1.the locator is wrong
+2.the element is not on that page.
+
+--------------Duplicate Values of attributes------------
+
+<input id="box", name="Username"/> --> Username Box
+<input id="box", class="password"/> --> password Box
+driver.findElement(By.id("box")).sendKeys("hello");
+
+driver is goinng to go in the DOM from top to bottom, the first tag with id box will
+be picked and keys will be sent to that.
+
+------------------------------------------------------------------
+1.  locators    ->  id, name, class, partialLinkText, linktext
+2.  linktext    ->
+3.  partial and link text using partial you can enter just a part of the text
+3.  if there is numbers in the value of the locators .. should you use it (avoid it)
+4.
