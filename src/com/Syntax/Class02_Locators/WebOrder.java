@@ -1,4 +1,4 @@
-package com.Syntax.Class02;
+package com.Syntax.Class02_Locators;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;

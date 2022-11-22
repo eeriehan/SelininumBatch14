@@ -1,4 +1,4 @@
-package com.Syntax.Class03;
+package com.Syntax.Class03_Xpath;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;

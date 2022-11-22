@@ -1,0 +1,25 @@
+************Selenium Class07******************
+
++ Window Handles
+    1.  each window has a unique coe => window handle
+
+    so we know that which window handle belongs to which window?
+
+    -No.
+
+    driver .getWindowHandles => Set<String>
+
+    in order to find our desired window handle we loop through each handle
+
+    -we switch to the first handle
+    -we get the title
+    -we see if it is our desired title
+    -if yes break;, if not continue
+
+    -----------------------------------------
++ Implicit wait
+
+    implicit wait is going to wait => until => The webElement is found in DOM
+    if the web element is not found in the DOm => it will give us an exception No such element after TIME OUT
+
+    -------------------------------------------------------

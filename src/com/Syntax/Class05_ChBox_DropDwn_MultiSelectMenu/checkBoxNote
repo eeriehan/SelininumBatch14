@@ -1,0 +1,3 @@
+handling multi-check box
+    1.  get all the checkboxes -> using driver.FindElements     list of WebElements
+    2.

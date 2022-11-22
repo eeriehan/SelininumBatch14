@@ -1,4 +1,4 @@
-package com.Syntax.Class04;
+package com.Syntax.Class04_CssSelect_RadioBtn;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;

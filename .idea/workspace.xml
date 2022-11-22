@@ -1,23 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="32139b2a-b775-42ef-bb06-18c7518b67c1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/Syntax/Class02/LocatingElements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Syntax/Class02/Note02" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Syntax/Class02/WebOrder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Syntax/Class03/HwClass03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Syntax/Class03/XpathDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Syntax/Class04/CssSelector.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Syntax/PracticeSeleninum/P01Basic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Syntax/PracticeSeleninum/P02_haryang.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Syntax/PracticeSeleninum/SeleniumBasicNote" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Syntax/PracticeSeleninum/TabControl_KeyEvent" afterDir="false" />
+    <list default="true" id="32139b2a-b775-42ef-bb06-18c7518b67c1" name="Changes" comment="2nd push - clone testing">
+      <change afterPath="$PROJECT_DIR$/src/com/Syntax/Class05_ChBox_DropDwn_MultiSelectMenu/GetAllLinks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Syntax/Class05_ChBox_DropDwn_MultiSelectMenu/checkBoxDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Syntax/Class05_ChBox_DropDwn_MultiSelectMenu/checkBoxDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Syntax/Class05_ChBox_DropDwn_MultiSelectMenu/checkBoxNote" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Syntax/Class05_ChBox_DropDwn_MultiSelectMenu/dropDownDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Syntax/Class05_ChBox_DropDwn_MultiSelectMenu/multipleSelectDropDown.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Syntax/Class06_Alert_Frames/Alerts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Syntax/Class06_Alert_Frames/Alerts1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Syntax/Class06_Alert_Frames/frames.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Syntax/Class07_WinHandle_implWait/Note" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Syntax/Class07_WinHandle_implWait/Wait.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Syntax/Class07_WinHandle_implWait/implicitWaits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Syntax/Class07_WinHandle_implWait/windowHandle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Syntax/Class07_WinHandle_implWait/windowHandlingAdvance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Syntax/Class08_WaitTable/Explicit Wait" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Syntax/Class08_WaitTable/tableBasics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Syntax/Class08_WaitTable/waitsDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Syntax/Class08_WaitTable/waitsDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Syntax/Class09_DynamicTables/DynamicReview.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Syntax/Class09_DynamicTables/DynamicTables.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Syntax/Class10_CalenderTable/calander.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Syntax/Class10_CalenderTable/calendarPagination.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Syntax/Reveiw/Review01/FacebookHomwWork.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Syntax/Reveiw/Review01/HomeWork2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Syntax/Reveiw/Review02/PracticeDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Syntax/Reveiw/Review02/RadioButtons.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Syntax/Reveiw/Review02/checkBoxes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Syntax/Reveiw/Review02/dropDown.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Syntax/Reveiw/Review02/ebayDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Syntax/Reveiw/Review03/Alerts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Syntax/Reveiw/Review03/frames.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Syntax/Reveiw/Review03/implcitwait.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Syntax/Reveiw/Review03/waits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Syntax/Reveiw/Review03/windowHandles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Syntax/Reveiw/Review04/waitReview.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Syntax/Reveiw/Review04/wetable.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SelininumBatch14.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SelininumBatch14.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SelininumTesting/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SelininumTesting/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Syntax/Class01/_01_launchingBrowser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Syntax/Class01/_01_launchingBrowser.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Syntax/Class01/_02_navigateMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Syntax/Class01/_02_navigateMethod.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Syntax/Class01/_03_maximizeWindow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Syntax/Class01/_03_maximizeWindow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Syntax/Class01/_01_launchingBrowser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Syntax/Class01_Driver/_01_launchingBrowser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Syntax/Class01/_02_navigateMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Syntax/Class01_Driver/_02_navigateMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Syntax/Class01/_03_maximizeWindow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Syntax/Class01_Driver/_03_maximizeWindow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Syntax/Class02/LocatingElements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Syntax/Class02_Locators/LocatingElements.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Syntax/Class02/Note02" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Syntax/Class02_Locators/Note02" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Syntax/Class02/WebOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Syntax/Class02_Locators/WebOrder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Syntax/Class03/HwClass03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Syntax/Class03_Xpath/HwClass03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Syntax/Class03/XpathDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Syntax/Class03_Xpath/XpathDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Syntax/Class04/AdditionalMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Syntax/Class04_CssSelect_RadioBtn/AdditionalMethods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Syntax/Class04/CssSelector.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Syntax/Class04_CssSelect_RadioBtn/CssSelector.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Syntax/Class04/RadioButtons.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Syntax/Class04_CssSelect_RadioBtn/RadioButtons.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,31 +77,38 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/hanjo/Desktop/syntaxBatch14/selenium-java-3.141.59/libs/okio-1.14.0.jar",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "run.code.analysis.last.selected.profile": "pProject Default"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/hanjo/Desktop/syntaxBatch14/selenium-java-3.141.59/libs/okio-1.14.0.jar&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\hanjo\IdeaProjects\SelininumBatch14\src\com\Syntax\PracticeSeleninum" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.Syntax.Class08" />
+      <recent name="com.Syntax.Class07" />
+      <recent name="com.Syntax.Class06" />
+      <recent name="com.Syntax.Class.Review01" />
+      <recent name="com.Syntax.Class05" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.HwClass03">
-    <configuration name="HwClass03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Syntax.Class03.HwClass03" />
+  <component name="RunManager" selected="Application.calendarPagination">
+    <configuration name="DynamicReview" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Syntax.Class09_DynamicTables.DynamicReview" />
       <module name="SelininumBatch14" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.Syntax.Class03.*" />
+          <option name="PATTERN" value="com.Syntax.Class09_DynamicTables.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -77,12 +116,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LocatingElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Syntax.Class02.LocatingElements" />
+    <configuration name="DynamicTables" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Syntax.Class09_DynamicTables.DynamicTables" />
       <module name="SelininumBatch14" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.Syntax.Class02.*" />
+          <option name="PATTERN" value="com.Syntax.Class09_DynamicTables.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,12 +129,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P01Basic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Syntax.PracticeSeleninum.P01Basic" />
+    <configuration name="calendarPagination" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Syntax.Class10_CalenderTable.calendarPagination" />
       <module name="SelininumBatch14" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.Syntax.PracticeSeleninum.*" />
+          <option name="PATTERN" value="com.Syntax.Class10_CalenderTable.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,12 +142,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WebOrder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Syntax.Class02.WebOrder" />
+    <configuration name="tableBasics" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Syntax.Class08_WaitTable.tableBasics" />
       <module name="SelininumBatch14" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.Syntax.Class02.*" />
+          <option name="PATTERN" value="com.Syntax.Class08_WaitTable.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,12 +155,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="XpathDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Syntax.Class03.XpathDemo" />
+    <configuration name="waitReview" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Syntax.Reveiw.Review04.waitReview" />
       <module name="SelininumBatch14" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.Syntax.Class03.*" />
+          <option name="PATTERN" value="com.Syntax.Reveiw.Review04.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,11 +170,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.HwClass03" />
-        <item itemvalue="Application.XpathDemo" />
-        <item itemvalue="Application.WebOrder" />
-        <item itemvalue="Application.LocatingElements" />
-        <item itemvalue="Application.P01Basic" />
+        <item itemvalue="Application.calendarPagination" />
+        <item itemvalue="Application.waitReview" />
+        <item itemvalue="Application.DynamicReview" />
+        <item itemvalue="Application.DynamicTables" />
+        <item itemvalue="Application.tableBasics" />
       </list>
     </recent_temporary>
   </component>
@@ -148,6 +187,14 @@
       <option name="presentableId" value="Default" />
       <updated>1666129518503</updated>
     </task>
+    <task id="LOCAL-00001" summary="2nd push - clone testing">
+      <created>1667418915074</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1667418915074</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -163,5 +210,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="2nd push - clone testing" />
+    <option name="LAST_COMMIT_MESSAGE" value="2nd push - clone testing" />
   </component>
 </project>

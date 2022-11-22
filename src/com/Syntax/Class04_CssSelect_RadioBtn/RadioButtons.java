@@ -1,11 +1,9 @@
-package com.Syntax.Class04;
+package com.Syntax.Class04_CssSelect_RadioBtn;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
-
-import java.util.List;
 
 public class RadioButtons {
     public static void main(String[] args) {
