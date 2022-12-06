@@ -1,23 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="32139b2a-b775-42ef-bb06-18c7518b67c1" name="Changes" comment="3rd push">
-      <change afterPath="$PROJECT_DIR$/screenshots/SmartBear/adminLogin.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Syntax/Class11_Pages/loginPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Syntax/Class11_Pages/loginPageWithPageFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Syntax/Class11_Test/loginPageTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Syntax/Class11_Test/loginPageTestWithPageFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Syntax/Class11_Utils/CommonMethods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Syntax/Class11_actionClass/KeysUsage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Syntax/Class11_actionClass/actionClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Syntax/Class11_actionClass/actionClassExamples.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Syntax/Class11_actionClass/dragAndDrop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Syntax/Class11_actionClass/screenShot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Syntax/Class12_JsExecutor/jsExecutorHighLight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Syntax/Class12_JsExecutor/jsExecutorScroll.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Syntax/Class12_JsExecutor/uploadFile.java" afterDir="false" />
+    <list default="true" id="32139b2a-b775-42ef-bb06-18c7518b67c1" name="Changes" comment="4th push">
+      <change afterPath="$PROJECT_DIR$/src/com/Syntax/Reveiw/Review05_Table/MultipleSearchIdThenClick.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Syntax/Reveiw/Review05_Table/MultipleSearchIdThenClick2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Syntax/Reveiw/Review05_Table/SearchIdThenClick.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SelininumBatch14.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SelininumBatch14.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Syntax/Class11_actionClass/screenShot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Syntax/Class11_actionClass/screenShot.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,77 +34,77 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/hanjo/Desktop/syntaxBatch14/selenium-java-3.141.59/commons-io-2.6.jar",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "run.code.analysis.last.selected.profile": "pProject Default"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/hanjo/Desktop/syntaxBatch14/selenium-java-3.141.59/commons-io-2.6.jar&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\hanjo\IdeaProjects\SelininumBatch14\src\com\Syntax\PracticeSeleninum" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.Syntax.Reveiw.Review05_Table" />
       <recent name="com.Syntax.Class12_JsExecutor" />
       <recent name="com.Syntax.Class08" />
       <recent name="com.Syntax.Class07" />
       <recent name="com.Syntax.Class06" />
-      <recent name="com.Syntax.Class.Review01" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.uploadFile">
+  <component name="RunManager" selected="Application.MultipleSearchIdThenClick2">
+    <configuration name="MultipleSearchIdThenClick" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Syntax.Reveiw.Review05_Table.MultipleSearchIdThenClick" />
+      <module name="SelininumBatch14" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Syntax.Reveiw.Review05_Table.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MultipleSearchIdThenClick2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Syntax.Reveiw.Review05_Table.MultipleSearchIdThenClick2" />
+      <module name="SelininumBatch14" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Syntax.Reveiw.Review05_Table.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SearchIdThenClick" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Syntax.Reveiw.Review05_Table.SearchIdThenClick" />
+      <module name="SelininumBatch14" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Syntax.Reveiw.Review05_Table.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="jsExecutorHighLight" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.Syntax.Class12_JsExecutor.jsExecutorHighLight" />
       <module name="SelininumBatch14" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.Syntax.Class12_JsExecutor.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="jsExecutorScroll" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Syntax.Class12_JsExecutor.jsExecutorScroll" />
-      <module name="SelininumBatch14" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.Syntax.Class12_JsExecutor.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="loginPageTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Syntax.Class11_Test.loginPageTest" />
-      <module name="SelininumBatch14" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.Syntax.Class11_Test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="loginPageTestWithPageFactory" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Syntax.Class11_Test.loginPageTestWithPageFactory" />
-      <module name="SelininumBatch14" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.Syntax.Class11_Test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -138,11 +127,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MultipleSearchIdThenClick2" />
+        <item itemvalue="Application.MultipleSearchIdThenClick" />
+        <item itemvalue="Application.SearchIdThenClick" />
         <item itemvalue="Application.uploadFile" />
         <item itemvalue="Application.jsExecutorHighLight" />
-        <item itemvalue="Application.jsExecutorScroll" />
-        <item itemvalue="Application.loginPageTestWithPageFactory" />
-        <item itemvalue="Application.loginPageTest" />
       </list>
     </recent_temporary>
   </component>
@@ -169,7 +158,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669097017634</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="4th push">
+      <created>1669314114645</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1669314114645</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -187,6 +183,7 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="2nd push - clone testing" />
     <MESSAGE value="3rd push" />
-    <option name="LAST_COMMIT_MESSAGE" value="3rd push" />
+    <MESSAGE value="4th push" />
+    <option name="LAST_COMMIT_MESSAGE" value="4th push" />
   </component>
 </project>
